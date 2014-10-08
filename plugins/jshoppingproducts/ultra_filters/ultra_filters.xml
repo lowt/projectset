@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" group="jshoppingproducts">
+	<name>JoomShopping - Расширенный фильтр товаров</name>
+	<author>Dmitry Stashenko</author>
+	<creationDate>Февраль 2012</creationDate>
+	<copyright>Copyright (C) 2006-2012 DECORA studio OOO. Все права защищены.</copyright>
+	<license>GNU General Public License</license>
+	<authorEmail>support@nevigen.com</authorEmail>
+	<authorUrl>www.nevigen.com</authorUrl>
+    <version>3.5.0</version>
+	<description>Плагин добавляет функционал расширенного фильтра. Работает совместно с модулем расширенного фильтра товаров</description>
+	<files>
+		<filename plugin="ultra_filters">ultra_filters.php</filename>
+	</files>
+</extension>
